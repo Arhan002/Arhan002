@@ -49,7 +49,7 @@ Hello! I am a passionate and motivated student pursuing Undergraduation with a k
 
 ## 📊 GitHub Stats:
 
-![Arhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arhan002&show_icons=true&theme=radical)
+[![Arhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arhan002)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arhan002&layout=compact&theme=radical)
 
