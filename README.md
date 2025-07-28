@@ -55,8 +55,3 @@ Hello! I am a passionate and motivated student pursuing Undergraduation with a k
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Arhan002&theme=algolia&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
