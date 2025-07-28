@@ -52,3 +52,11 @@ Hello! I am a passionate and motivated student pursuing Undergraduation with a k
 ![Arhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arhan002&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arhan002&layout=compact&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Arhan002&theme=algolia&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
