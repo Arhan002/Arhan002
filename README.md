@@ -6,9 +6,7 @@
 
 ## 🪄 About Me:
 
-I am a student at ICFAI Tech Hyderabad. Currently working on multiple projects/applications that solve real-world problems.  
-I am very invested in my current field of study, which is computer science.  
-Always experimenting and hopefully failing — to gain the curiosity to learn new things for me to advance.
+Hello! I am a passionate and motivated student pursuing Undergraduation with a keen interest in Computer Science. Currently enrolled at ICFAI TECH SCHOOL, I am dedicated to expanding my knowledge and skills in Programming and Data Structures.
 
 ---
 
